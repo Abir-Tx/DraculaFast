@@ -1,8 +1,14 @@
+// Variables
+$background: #325d71;
+$text_color: white;
+
+// General
 html {
-  background-color: #222b3e;
-  color: white;
+  background-color: $background;
+  color: $text_color;
 }
 
+// Stylizing the logos
 div.logo {
   background: url(https://cdn.discordapp.com/attachments/917984155541864449/1060271586076270683/new-logo-vert-37861c-white-text.svg)
       no-repeat,
@@ -16,77 +22,76 @@ div.powered-by {
 }
 
 body {
-  background-color: #222b3e;
-  color: white;
+  color: $text_color;
 }
 .more-info-link {
   background-color: #325d71;
 }
 #your-speed-message {
-  color: white;
+  color: $text_color;
 }
 .succeeded {
-  color: white;
+  color: $text_color;
 }
 #speed-value {
-  color: white;
+  color: $text_color;
 }
 
 #speed-units {
-  color: white;
+  color: $text_color;
 }
 
 #speed-progress-indicator-icon {
-  color: white;
+  color: $text_color;
 }
 
 .measurement-label {
-  color: white;
+  color: $text_color;
 }
 
 .bufferbloat-label {
-  color: white;
+  color: $text_color;
 }
 
 #bufferbloat-value {
-  color: white;
+  color: $text_color;
 }
 
 #upload-value {
-  color: white;
+  color: $text_color;
 }
 
 #latency-value {
-  color: white;
+  color: $text_color;
 }
 
 .localized {
-  color: white;
+  color: $text_color;
 }
 
 table {
-  color: white;
+  color: $text_color;
 }
 
 .logo {
-  color: white;
+  color: $text_color;
 }
 
 span {
-  color: white;
+  color: $text_color;
 }
 
 .powered-by {
-  color: white;
+  color: $text_color;
 }
 
 .measurement-details-label {
-  color: white;
+  color: $text_color;
 }
 .dropbtn {
-  color: white;
+  color: $text_color;
 }
 
 #privacy-link {
-  color: white;
+  color: $text_color;
 }
