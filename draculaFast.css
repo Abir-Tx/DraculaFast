@@ -3,6 +3,14 @@ html {
   color: white;
 }
 
+div.logo {
+  background: url(https://cdn.discordapp.com/attachments/917984155541864449/1060271586076270683/new-logo-vert-37861c-white-text.svg) no-repeat, linear-gradient(transparent, transparent);
+}
+
+div.powered-by {
+  background: url(https://cdn.discordapp.com/attachments/917984155541864449/1060271586369875969/poweredby-865a3b-white-text.svg) no-repeat center, linear-gradient(transparent, transparent);
+}
+
 body {
   background-color: #222b3e;
   color: white;
