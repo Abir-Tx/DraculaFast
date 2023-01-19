@@ -1,5 +1,5 @@
 html {
-  background-color: #325d71;
+  background-color: #2b2e3b;
   color: white;
 }
 
@@ -12,7 +12,7 @@ div.powered-by {
 }
 
 body {
-  background-color: #325d71;
+  background-color: #2b2e3b;
   color: white;
 }
 
@@ -90,4 +90,6 @@ span {
 
 #privacy-link {
   color: white;
-}/*# sourceMappingURL=draculaFast.css.map */
+}
+
+/*# sourceMappingURL=draculaFast.css.map */
