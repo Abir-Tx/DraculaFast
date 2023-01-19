@@ -20,6 +20,15 @@ A dracula colorcheme inspired **_userstyleCSS_** dark theme for the [fast.com](h
 
 If you find any bug or have any suggestion, please open an issue [here](https://github.com/Abir-Tx/DraculaFast/issues/new)
 
+
+## Developement
+
+- Install `sass` compiler using `npm install -g sass`
+- Compile the `DraculaFast.scss` using
+```bash
+sass DraculaFast.scss DraculaFast.css
+```
+
 ## Contributors
 
 - [Abir-Tx](https://github.com/abir-tx)
