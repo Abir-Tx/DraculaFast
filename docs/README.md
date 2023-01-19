@@ -12,9 +12,9 @@ A dracula colorcheme inspired **_userstyleCSS_** dark theme for the [fast.com](h
 
 ## Screenshots
 
-![fast.com screen 1](../.github/fast.com_dracula_dark_theme.jpeg)
+![fast.com screen 1](../.github/draculaFast_NewTheme_V1.0.1.jpeg)
 
-![fast.com screen 2 - basic interface](../.github/fast.com_dracula_dark_theme-basic_interface.jpeg)
+![fast.com screen 2 - basic interface](../.github/draculaFast_NewTheme_V1.0.1_Minimal.jpeg)
 
 ## Bug Report
 
