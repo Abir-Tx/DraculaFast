@@ -1,6 +1,8 @@
 // Variables
 $background: #414458;
 $text_color: white;
+$dracula_red: #ff5555;
+$dracula_background: #282a36;
 
 // General
 html {
@@ -95,4 +97,22 @@ span {
 
 #privacy-link {
   color: $text_color;
+}
+
+.speed-progress-indicator.succeeded {
+  border-color: $dracula_red;
+}
+
+.more-info-link {
+  color: white !important;
+  background-color: $dracula_background;
+
+  &:hover {
+    color: $dracula_red !important;
+    border-color: $dracula_red;
+  }
+}
+
+.measurement-details-label.succeeded {
+  color: $dracula_red;
 }

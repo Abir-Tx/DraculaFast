@@ -92,4 +92,19 @@ span {
   color: white;
 }
 
-/*# sourceMappingURL=draculaFast.css.map */
+.speed-progress-indicator.succeeded {
+  border-color: #ff5555;
+}
+
+.more-info-link {
+  color: white !important;
+  background-color: #282a36;
+}
+.more-info-link:hover {
+  color: #ff5555 !important;
+  border-color: #ff5555;
+}
+
+.measurement-details-label.succeeded {
+  color: #ff5555;
+}/*# sourceMappingURL=draculaFast.css.map */
