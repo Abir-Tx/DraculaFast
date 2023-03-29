@@ -7,11 +7,13 @@ A dracula colorcheme inspired **_userstyleCSS_** dark theme for the [fast.com](h
 ### Using [Stylus](https://add0n.com/stylus.html)
 
 1. Install [Stylus](https://add0n.com/stylus.html) extension for your browser. Or click here -
+
    - [For Chrome Based Browser](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
    - [For Firefox Browser](https://addons.mozilla.org/firefox/addon/styl-us/)
    - [For Opera Browser](https://addons.opera.com/extensions/details/stylus/)
 
-[] 2. Head over to [here](https://userstyles.world/style/8066/dracula-dark-theme-for-fast-com) and click on **Install** 3. Click on **Install Style** button and you are done.
+2. Head over to [here](https://userstyles.world/style/8066/dracula-dark-theme-for-fast-com) and click on **Install**.
+3. Click on **Install Style** button and you are done.
 
 ## Screenshots
 
