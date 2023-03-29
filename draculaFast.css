@@ -107,4 +107,18 @@ span {
 
 .measurement-details-label.succeeded {
   color: #ff5555;
-}/*# sourceMappingURL=draculaFast.css.map */
+}
+
+span.oc-icon.oc-icon-fb:hover {
+  color: #ff5555;
+}
+
+span.oc-icon.oc-icon-tw:hover {
+  color: #ff5555;
+}
+
+span.oc-icon.oc-icon-help.test-help:hover {
+  color: #ff5555;
+}
+
+/*# sourceMappingURL=draculaFast.css.map */
