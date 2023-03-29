@@ -68,4 +68,20 @@ span.oc-icon-tw:hover,
   color: #ff5555;
 }
 
+.test-config-btn {
+  color: #ffffff !important;
+  border-color: #ffffff;
+}
+.test-config-btn:hover {
+  color: #ff5555 !important;
+  border-color: #ff5555;
+}
+
+div#help-content a {
+  color: #ff79c6;
+}
+div#help-content a:hover {
+  color: #ff5555;
+}
+
 /*# sourceMappingURL=draculaFast.css.map */
