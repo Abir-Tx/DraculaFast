@@ -36,4 +36,4 @@ sass DraculaFast.scss DraculaFast.css
 
 ## Contributors
 
-- [Abir-Tx](https://github.com/abir-tx)
+Made with ♥ by [Abir-Tx](https://github.com/abir-tx)
