@@ -1,0 +1,98 @@
+/* ==UserStyle==
+@name           Dracula Dark Theme For Fast.com
+@namespace      https://github.com/Abir-Tx/DraculaFast
+@version        1.3.0
+@description    Dracula inspired dark theme for https://fast.com the Netflix-powered internet speed measurement website
+@homepageURL    https://github.com/Abir-Tx/DraculaFast
+@license        MIT License
+@author         abir_tx
+==/UserStyle== */
+@-moz-document domain("fast.com") {
+	html,
+	body {
+		background-color: #414458;
+		color: white;
+	}
+
+	div.logo {
+		background: url(https://cdn.discordapp.com/attachments/917984155541864449/1060271586076270683/new-logo-vert-37861c-white-text.svg) no-repeat, linear-gradient(transparent, transparent);
+	}
+
+	div.powered-by {
+		background: url(https://cdn.discordapp.com/attachments/917984155541864449/1060271586369875969/poweredby-865a3b-white-text.svg) no-repeat center, linear-gradient(transparent, transparent);
+	}
+
+	.more-info-link {
+		background-color: #325d71;
+		color: white !important;
+	}
+	.more-info-link:hover {
+		color: #ff5555 !important;
+		border-color: #ff5555;
+	}
+
+	.more-info-link,
+	#your-speed-message,
+	.succeeded,
+	#speed-value,
+	#speed-units,
+	#speed-progress-indicator-icon,
+	.measurement-label,
+	.bufferbloat-label,
+	#bufferbloat-value,
+	#upload-value,
+	#latency-value,
+	.localized,
+	table,
+	span,
+	.powered-by,
+	.measurement-details-label,
+	.dropbtn,
+	#privacy-link,
+	.oc-icon-fb:hover,
+	.oc-icon-tw:hover,
+	.oc-icon-help.test-help:hover,
+	.dropbtn:hover,
+	.dropbtn:focus,
+	#privacy-link:hover,
+	.oc-icon-help.test-help.active {
+		color: white;
+	}
+
+	.more-info-link:hover,
+	.dropbtn:hover,
+	.dropbtn:focus,
+	#privacy-link:hover,
+	span.oc-icon-fb:hover,
+	span.oc-icon-tw:hover,
+	.oc-icon-help.test-help:hover,
+	.oc-icon-help.test-help.active {
+		color: #ff5555;
+	}
+
+	.speed-progress-indicator.succeeded {
+		border-color: #ff5555;
+	}
+
+	.measurement-details-label.succeeded {
+		color: #ff5555;
+	}
+
+	.test-config-btn {
+		color: #ffffff !important;
+		border-color: #ffffff;
+	}
+	.test-config-btn:hover {
+		color: #ff5555 !important;
+		border-color: #ff5555;
+	}
+
+	div#help-content a {
+		color: #ff79c6;
+	}
+	div#help-content a:hover {
+		color: #ff5555;
+	}
+
+	/*# sourceMappingURL=draculaFast.css.map. Coded By Mushfiqur Rahman Abir | 2023 */
+}
