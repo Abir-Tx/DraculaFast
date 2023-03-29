@@ -3,6 +3,7 @@ $background: #414458;
 $text_color: white;
 $dracula_red: #ff5555;
 $dracula_background: #282a36;
+$dracula_pink: #ff79c6;
 
 // General
 html,
@@ -81,4 +82,25 @@ span.oc-icon-tw:hover,
 
 .measurement-details-label.succeeded {
   color: $dracula_red;
+}
+
+// The Settings Page Styles
+
+.test-config-btn {
+  color: #ffffff !important;
+  border-color: #ffffff;
+
+  &:hover {
+    color: $dracula_red !important;
+    border-color: $dracula_red;
+  }
+}
+
+// The help container
+div#help-content a {
+  color: $dracula_pink;
+
+  &:hover {
+    color: $dracula_red;
+  }
 }
