@@ -5,7 +5,8 @@ $dracula_red: #ff5555;
 $dracula_background: #282a36;
 
 // General
-html {
+html,
+body {
   background-color: $background;
   color: $text_color;
 }
@@ -23,89 +24,9 @@ div.powered-by {
     linear-gradient(transparent, transparent);
 }
 
-body {
-  background-color: $background;
-  color: $text_color;
-}
 .more-info-link {
   background-color: #325d71;
-}
-#your-speed-message {
-  color: $text_color;
-}
-.succeeded {
-  color: $text_color;
-}
-#speed-value {
-  color: $text_color;
-}
-
-#speed-units {
-  color: $text_color;
-}
-
-#speed-progress-indicator-icon {
-  color: $text_color;
-}
-
-.measurement-label {
-  color: $text_color;
-}
-
-.bufferbloat-label {
-  color: $text_color;
-}
-
-#bufferbloat-value {
-  color: $text_color;
-}
-
-#upload-value {
-  color: $text_color;
-}
-
-#latency-value {
-  color: $text_color;
-}
-
-.localized {
-  color: $text_color;
-}
-
-table {
-  color: $text_color;
-}
-
-.logo {
-  color: $text_color;
-}
-
-span {
-  color: $text_color;
-}
-
-.powered-by {
-  color: $text_color;
-}
-
-.measurement-details-label {
-  color: $text_color;
-}
-.dropbtn {
-  color: $text_color;
-}
-
-#privacy-link {
-  color: $text_color;
-}
-
-.speed-progress-indicator.succeeded {
-  border-color: $dracula_red;
-}
-
-.more-info-link {
   color: white !important;
-  background-color: $dracula_background;
 
   &:hover {
     color: $dracula_red !important;
@@ -113,30 +34,51 @@ span {
   }
 }
 
-.measurement-details-label.succeeded {
-  color: $dracula_red;
-}
-
-// Hover color of the social icons
-span.oc-icon.oc-icon-fb:hover {
-  color: $dracula_red;
-}
-span.oc-icon.oc-icon-tw:hover {
-  color: $dracula_red;
-}
-span.oc-icon.oc-icon-help.test-help:hover {
-  color: $dracula_red;
-}
-
-span.oc-icon.oc-icon-help.test-help.active {
-  color: $dracula_red;
-}
-
+// Text styles
+.more-info-link,
+#your-speed-message,
+.succeeded,
+#speed-value,
+#speed-units,
+#speed-progress-indicator-icon,
+.measurement-label,
+.bufferbloat-label,
+#bufferbloat-value,
+#upload-value,
+#latency-value,
+.localized,
+table,
+span,
+.powered-by,
+.measurement-details-label,
+.dropbtn,
+#privacy-link,
+.oc-icon-fb:hover,
+.oc-icon-tw:hover,
+.oc-icon-help.test-help:hover,
 .dropbtn:hover,
-.dropbtn:focus {
+.dropbtn:focus,
+#privacy-link:hover,
+.oc-icon-help.test-help.active {
+  color: $text_color;
+}
+
+// Hover styles
+.more-info-link:hover,
+.dropbtn:hover,
+.dropbtn:focus,
+#privacy-link:hover,
+span.oc-icon-fb:hover,
+span.oc-icon-tw:hover,
+.oc-icon-help.test-help:hover,
+.oc-icon-help.test-help.active {
   color: $dracula_red;
 }
 
-#privacy-link:hover {
+.speed-progress-indicator.succeeded {
+  border-color: $dracula_red;
+}
+
+.measurement-details-label.succeeded {
   color: $dracula_red;
 }
