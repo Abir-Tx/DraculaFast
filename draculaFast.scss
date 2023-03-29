@@ -131,3 +131,12 @@ span.oc-icon.oc-icon-help.test-help:hover {
 span.oc-icon.oc-icon-help.test-help.active {
   color: $dracula_red;
 }
+
+.dropbtn:hover,
+.dropbtn:focus {
+  color: $dracula_red;
+}
+
+#privacy-link:hover {
+  color: $dracula_red;
+}
