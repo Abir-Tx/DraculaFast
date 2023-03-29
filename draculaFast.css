@@ -1,4 +1,5 @@
-html {
+html,
+body {
   background-color: #414458;
   color: white;
 }
@@ -11,113 +12,59 @@ div.powered-by {
   background: url(https://cdn.discordapp.com/attachments/917984155541864449/1060271586369875969/poweredby-865a3b-white-text.svg) no-repeat center, linear-gradient(transparent, transparent);
 }
 
-body {
-  background-color: #414458;
-  color: white;
-}
-
 .more-info-link {
   background-color: #325d71;
-}
-
-#your-speed-message {
-  color: white;
-}
-
-.succeeded {
-  color: white;
-}
-
-#speed-value {
-  color: white;
-}
-
-#speed-units {
-  color: white;
-}
-
-#speed-progress-indicator-icon {
-  color: white;
-}
-
-.measurement-label {
-  color: white;
-}
-
-.bufferbloat-label {
-  color: white;
-}
-
-#bufferbloat-value {
-  color: white;
-}
-
-#upload-value {
-  color: white;
-}
-
-#latency-value {
-  color: white;
-}
-
-.localized {
-  color: white;
-}
-
-table {
-  color: white;
-}
-
-.logo {
-  color: white;
-}
-
-span {
-  color: white;
-}
-
-.powered-by {
-  color: white;
-}
-
-.measurement-details-label {
-  color: white;
-}
-
-.dropbtn {
-  color: white;
-}
-
-#privacy-link {
-  color: white;
-}
-
-.speed-progress-indicator.succeeded {
-  border-color: #ff5555;
-}
-
-.more-info-link {
   color: white !important;
-  background-color: #282a36;
 }
 .more-info-link:hover {
   color: #ff5555 !important;
   border-color: #ff5555;
 }
 
+.more-info-link,
+#your-speed-message,
+.succeeded,
+#speed-value,
+#speed-units,
+#speed-progress-indicator-icon,
+.measurement-label,
+.bufferbloat-label,
+#bufferbloat-value,
+#upload-value,
+#latency-value,
+.localized,
+table,
+span,
+.powered-by,
+.measurement-details-label,
+.dropbtn,
+#privacy-link,
+.oc-icon-fb:hover,
+.oc-icon-tw:hover,
+.oc-icon-help.test-help:hover,
+.dropbtn:hover,
+.dropbtn:focus,
+#privacy-link:hover,
+.oc-icon-help.test-help.active {
+  color: white;
+}
+
+.more-info-link:hover,
+.dropbtn:hover,
+.dropbtn:focus,
+#privacy-link:hover,
+span.oc-icon-fb:hover,
+span.oc-icon-tw:hover,
+.oc-icon-help.test-help:hover,
+.oc-icon-help.test-help.active {
+  color: #ff5555;
+}
+
+.speed-progress-indicator.succeeded {
+  border-color: #ff5555;
+}
+
 .measurement-details-label.succeeded {
-  color: #ff5555;
-}
-
-span.oc-icon.oc-icon-fb:hover {
-  color: #ff5555;
-}
-
-span.oc-icon.oc-icon-tw:hover {
-  color: #ff5555;
-}
-
-span.oc-icon.oc-icon-help.test-help:hover {
   color: #ff5555;
 }
 
