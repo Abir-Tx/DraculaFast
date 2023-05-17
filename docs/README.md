@@ -27,7 +27,9 @@ A dracula colorcheme inspired **_userstyleCSS_** dark theme for the [fast.com](h
 
 ## Bug Report
 
-If you find any bug or have any suggestion, please open an issue [here](https://github.com/Abir-Tx/DraculaFast/issues/new)
+~If you find any bug or have any suggestion, please open an issue [here](https://github.com/Abir-Tx/DraculaFast/issues/new)~
+
+I have decided not to maintain or do updates to this project anymore as it is pretty much stable now. But if anyone still wants to contribute or take this projects lead you can contact with me using this main -> abirtx@yandex.com
 
 ## Developement
 
