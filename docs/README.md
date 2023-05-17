@@ -1,5 +1,7 @@
 # DraculaFast
 
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/Abir-Tx/DraculaFast/raw/main/userStylesFinalFile.user.css)
+
 A dracula colorcheme inspired **_userstyleCSS_** dark theme for the [fast.com](https://fast.com) internet speedometer website.
 
 > The project is almost done and there is no need to update it frequently. But if you find any bug or have any suggestion, please open an issue. I have decided to mark the project as **_stable_** and archive it very soon. The version `v1.3.0` might be the last version. Thank you for using this project.
